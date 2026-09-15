@@ -1,0 +1,15 @@
+[server]
+headless = true
+enableXsrfProtection = true
+maxUploadSize = 5
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#FF9900"
+
+[client]
+showErrorDetails = "stacktrace"
+toolbarMode = "minimal"
